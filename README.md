@@ -1,1 +1,1 @@
-# Image-Sorting-Classifier
+# Image Sorting Classifier
